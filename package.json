@@ -20,6 +20,7 @@
   "scripts": {
     "prebuild": "echo I run before the build script",
     "postbuild": "echo I run after the build script",
+    "build": "pwd && pwd",
     "start": "pwd && node server.js",
     "test": "IP=0.0.0.0 PORT=3030 mocha --timeout 5000 tests/*_test.js"
   },
