@@ -2,7 +2,7 @@ This is a project cloned from openshift sample NodeJS Application
 
 Reference https://github.com/sclorg/nodejs-ex
 
-Edit <b>package.json<b> "scripts" to make minimun changes to integrate Front & Back End in a single project
+Edit <b>package.json</b> "scripts" to make minimun changes to integrate Front & Back End in a single project
 
 For npm support property,please read
 https://docs.npmjs.com/misc/scripts.html
